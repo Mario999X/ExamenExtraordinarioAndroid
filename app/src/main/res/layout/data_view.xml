@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewHora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C3C3C3"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewModulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C3C3C3"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewAula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C3C3C3"
+        android:text="TextView" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+</LinearLayout>
